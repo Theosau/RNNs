@@ -1,4 +1,4 @@
-This repository contains the 3rd Deep Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Professor Michael Bronstein, Professor Bjorn Schuller, and Stefanos Zafeirou. The coureseworks were developed with their PhD students. 
+This repository contains the 3rd Deep Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Professor Michael Bronstein, Professor Bjorn Schuller, and Stefanos Zafeirou. The coursework was developed with their PhD students. 
 
 # RNNs
 This task constituted of the implementation of RNN, LSTM and GRU uni-directional and bi-directional cells using the Pytorch library. <br>
